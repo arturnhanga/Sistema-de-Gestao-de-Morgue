@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 45px;
+}
+
+h1 {
+    text-align: center;
+    color: #d4cdcd;
+    font-size: 50px;
+}
+
+.links {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.form {
+    position: absolute;
+    left: 40%;
+}
+
+fieldset {
+    text-align: center;
+    width: 240px;
+    height: 270px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    background-color: #e9e5e5;
+}
+
+legend {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
